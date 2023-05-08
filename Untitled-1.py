@@ -1,3 +1,1 @@
-name = "Ramiq"
-
-print("Hello, " + name + "!")
+"terminal.integrated.fontSize": 16
