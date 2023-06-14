@@ -1,5 +1,16 @@
-drinks = ["Coke", "Pepsi", "Water", "Coffee", "Tea"]
-dinner = ["Pizza", "Burger", "Hotdog", "Pasta", "Salad"]
-dessert = ["Cake", "Ice Cream", "Pie", "Cookie", "Candy"]
-food = [drinks, dinner, dessert]
-print(food)
+
+#while True:
+    #name = input("What is your name? ")
+    #if name != "":
+        #pass
+    
+#while True:
+    #name = input("What is your name? ")
+    #if name != "":
+    #break
+    
+#while True:
+    #name = input("What is your name? ")
+    #if name != "":
+    #continue
+ 
