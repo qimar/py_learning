@@ -1,1 +1,0 @@
-"terminal.integrated.fontSize": 16
